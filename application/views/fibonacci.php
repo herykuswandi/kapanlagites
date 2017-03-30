@@ -30,8 +30,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	</div>
 
-<h4>* Catatan : jika Program tidak bisa jalan, pastikan  nama folder di htdocs anda adalah "hery_tes" atau sesuaikan nama folder di config/config.php pada line 26 : 
-$config['base_url']</h4>
+<h4>* Catatan : program harus dijalankan di link http://localhost/hery_tes/<br/>jika Program tidak bisa jalan, pastikan  nama folder di htdocs anda adalah "hery_tes" atau sesuaikan nama folder di config/config.php pada line 26 : 
+$config['base_url']
+</h4>
  
 </div>
 
